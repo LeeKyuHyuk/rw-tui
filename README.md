@@ -3,7 +3,9 @@ rw-tui :: Read & Write Everything
 
 This utility was created as a TUI application for Linux with reference to [RWEverything](http://rweverything.com/).
 
-![rw-tui](./rw-tui.gif)
+![rw-tui](./rw-tui_screenshot_1.gif)
+
+![Example of using rw-tui](./rw-tui_screenshot_2.gif)
 
 # How to use
 1. Build the code in [@LeeKyuHyuk/fmem](https://github.com/LeeKyuHyuk/fmem) to `insmod`.
